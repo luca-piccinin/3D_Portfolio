@@ -8,21 +8,12 @@ import {
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
   nodejs,
-  mongodb,
   git,
-  figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  kennedy,
   carrent,
   jobit,
   tripguide,
-  threejs,
 } from "../assets";
 
 export const navLinks = [
@@ -42,20 +33,36 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
-    icon: web,
+    title: "App Android",
+    icon: mobile,
   },
   {
-    title: "React Native Developer",
+    title: "App iOS",
     icon: mobile,
+  },
+  {
+    title: "App Cross-platform",
+    icon: mobile,
+  },
+  {
+    title: "Content Creator",
+    icon: creator,
+  },
+  {
+    title: "Web Developer",
+    icon: backend,
+  },
+  {
+    title: "Frontend Developer",
+    icon: backend,
   },
   {
     title: "Backend Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "Graphic Design",
+    icon: web,
   },
 ];
 
@@ -92,11 +99,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "High School",
+    company_name: "J.F.Kennedy",
+    icon: kennedy,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2016 - June 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -105,11 +112,24 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Internship",
+    company_name: "Meson's Cucine",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "June 2019",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "University",
+    company_name: "University of Study of Udine",
+    icon: tesla,
+    iconBg: "#E6DEDD",
+    date: "October 2021 - Ongoing",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -122,7 +142,7 @@ const experiences = [
     company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2022 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
