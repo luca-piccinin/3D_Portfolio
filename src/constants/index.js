@@ -11,6 +11,8 @@ import {
   nodejs,
   git,
   kennedy,
+  uniud,
+  mesons,
   carrent,
   jobit,
   tripguide,
@@ -102,7 +104,7 @@ const experiences = [
     title: "High School",
     company_name: "J.F.Kennedy",
     icon: kennedy,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "September 2016 - June 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -114,7 +116,7 @@ const experiences = [
   {
     title: "Internship",
     company_name: "Meson's Cucine",
-    icon: tesla,
+    icon: mesons,
     iconBg: "#E6DEDD",
     date: "June 2019",
     points: [
@@ -127,7 +129,7 @@ const experiences = [
   {
     title: "University",
     company_name: "University of Study of Udine",
-    icon: tesla,
+    icon: uniud,
     iconBg: "#E6DEDD",
     date: "October 2021 - Ongoing",
     points: [
@@ -140,7 +142,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Shopify",
-    icon: shopify,
+    icon: uniud,
     iconBg: "#383E56",
     date: "Jan 2022 - Present",
     points: [
@@ -153,7 +155,7 @@ const experiences = [
   {
     title: "Full stack Developer",
     company_name: "Meta",
-    icon: meta,
+    icon: uniud,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [

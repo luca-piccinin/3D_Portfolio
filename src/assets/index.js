@@ -22,6 +22,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import kennedy from "./company/Kennedy.png";
+import uniud from "./company/Uniud.png";
+import mesons from "./company/mesons.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -49,7 +51,9 @@ export {
   tailwind,
   typescript,
   threejs,
+  uniud,
   kennedy,
+  mesons,
   carrent,
   jobit,
   tripguide,
