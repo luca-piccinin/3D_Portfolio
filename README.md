@@ -136,10 +136,3 @@ At the main folder execute the following command in console to run the developme
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/Threejs_3D_Portfolio" />
-</a>
