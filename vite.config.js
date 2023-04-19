@@ -8,8 +8,7 @@ export default defineConfig({
     outDir: "./build",
     sourcemap: true,
     rollupOptions: {
-      external: ['firebase/app'],
-      external: ['firebase/analytics']
+      external: ['firebase/app','firebase/analytics']
     }
   },
 })
