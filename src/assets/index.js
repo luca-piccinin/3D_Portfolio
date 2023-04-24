@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import kennedy from "./company/Kennedy.png";
 import uniud from "./company/Uniud.png";
 import mesons from "./company/mesons.png";
+import twitch from "./company/twitch.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -34,6 +35,7 @@ export {
   backend,
   creator,
   mobile,
+  twitch,
   web,
   github,
   menu,
