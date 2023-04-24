@@ -187,7 +187,6 @@ const testimonials = [
     designation: "CFO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
-    
   }*/
 ];
 
